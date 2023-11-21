@@ -46,9 +46,7 @@ Este capítulo incluye una selección de problemas introductorios que son adecua
 35. Escribir un programa que determine las constantes `W`, `X`, `Y`, y `Z` en la ecuación `WX + Y = YZ - Z`, e imprimir la solución.
 36. Calcular `z` según la fórmula `(a + b)^3 - (x + y)^2 (a - c)^4 + 1/2 (c + x)`, con valores dados para `a`, `b`, `c`, `x`, y `y`.
 37. Encontrar el mayor número entre `N` números no nulos.
-38. Introducir `12` valores de `A` y `10` de `B`. Calcular la suma de los valores `A`, la suma de
-
- los `B`, y la suma de los productos `AB`.
+38. Introducir `12` valores de `A` y `10` de `B`. Calcular la suma de los valores `A`, la suma de los `B`, y la suma de los productos `AB`.
 39. Dados diez enteros, imprimir solo el mayor.
 40. Calcular el número de centímetros en `32` pulgadas, sabiendo que una pulgada equivale a `2.5 cm`.
 41. Convertir `212` kilogramos a libras, utilizando la fórmula `P = 2.2K`.
