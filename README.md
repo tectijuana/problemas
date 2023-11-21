@@ -80,4 +80,4 @@ Este capítulo incluye una selección de problemas introductorios que son adecua
 69. Calcular el total de regalos recibidos en la canción "Los 12 días de Navidad".
 70. Ordenar un conjunto de tres números en orden descendente.
 71. Imprimir `40` enteros seleccionados al azar entre `-100` y `100`.
-72. Generar `20` conjuntos de
+
